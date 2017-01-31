@@ -24,14 +24,13 @@ h1,
 h2 {
   color: white;
 }
-.travel {
-  font-size: 21px;
-}
 
 .footer {
   text-align: right;
+
 }
 
 .color {
   color: gray;
+  font-size: 21px;
 }
